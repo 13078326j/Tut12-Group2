@@ -25,8 +25,8 @@ Week 1 (Stages 1 and 2 of design thinking)
 - Identify stakeholders 
 
 Week 2 (Ideation using the above, i.e. using Stages 1 and 2 of the design thinking process. 200-300 word reflections and brainstormed ideas; stating any assumptions made.)
-●	Create a blacklog. This needs to be prioritized.
-●	The backlog is created and this needs to be managed using issues in Github i.e., issues are progressively “closed” as the project gets done. The commit that closes each issue should be clearly stated.
+-Create a blacklog. This needs to be prioritized.
+-The backlog is created and this needs to be managed using issues in Github i.e., issues are progressively “closed” as the project gets done. The commit that closes each issue should be clearly stated.
 
 Week 3 = Prototyping and models
 Iteratively complete:
@@ -35,6 +35,11 @@ Iteratively complete:
 - Class diagrams
 - Collaborative Diagrams
 
+-Issues get removed as their corresponding models are added to the markdown file [use cases are developed from the backlog (1 
+to 3 or 4) user stories can be used to create a use case. The use cases are then used to create activity diagrams. These are then used to create class diagrams and collaboration diagrams.
+
+-Commits should identify when this part of the report was added to or modified in the markdown file
 
 
-  
+Week 4 (E.g. Potential benefits to the call center (in terms of reducing cost and being able to carry out more effective calls). Around 500 words
+
