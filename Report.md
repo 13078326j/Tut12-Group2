@@ -11,7 +11,7 @@
 [Our Propososed Solution](#our-proposed-solution)
 * [Product Backlog](#product-backlog)
 
-[Solution Models](#solution-models)\
+[Solution Models](#solution-models)
 * [Use Case Diagrams](#use-case-diagrams)
 * [Activity Diagrams](#activity-diagrams)
 * [Class Diagram](#class-diagram)
