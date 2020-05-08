@@ -39,10 +39,10 @@ execute design thinking\
 ## Our Proposed Solution
 
 ### Solution Backlog
-Component | Description | Priority 1-Lowest 5-Highest | Completion Status
------------- | ------------- | -------------- | ---------
-Test| test | 3 | - [x]
-Content column 1 | Content column 2 | tst | - []
+|Name     |Description  |Priority (1-Lowest 5-Highest)|Assgined to   |Task Completion Status|
+|---------|-------------|-----------------------------|--------------|----------------|
+|test     |test         | 3                           |adem          |<ul><li>- [x] </li></ul>|
+| Content | tst         | testttttttttt               |sdsfds        |<ul><li>- [ ] </li></ul>|
 ## Solution Models
 
 ### Use Case Diagrams
