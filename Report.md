@@ -24,8 +24,6 @@ execute design thinking\
 ### Empathy Maps
 #### Test Empathy Map
 ![Description of the image goes here e.g this is a stakeholder empathy map for the user](https://raw.githubusercontent.com/13078326j/jesslyn-/master/Empathy%20Map%20Canvas.png "This is the text that appears when you hover over the image")
-
-![alt text](image link "hover text")
 ## Our Design and Proposed Solution
 
 ### Product Backlog
