@@ -4,16 +4,16 @@
 ---
 ## Table of Contents 
 
-[Executive Summary](#executive)\
-[Problem Definition](#problem)\
-[Propososed Solution](#our)\
-[Solution Models](#solution)\
+[Executive Summary](#executive-summary)\
+[Problem Definition](#problem-definition)\
+[Our Propososed Solution](#our-proposed-solution)\
+[Solution Models](#solution-models)\
 [Conclusion](#conclusion)\
-<a name="executive "/>
-<a name="problem"/>
-<a name="our"/>
-<a name="solution"/>
-<a name="conclusion"/>
+<a name="Executive Summary"/>
+<a name="Problem Definition"/>
+<a name="Our Proposed Solution"/>
+<a name="Solution Models"/>
+<a name="Conclusion"/>
 
 ## Executive Summary
 
@@ -24,11 +24,11 @@ execute design thinking\
 ### Empathy Maps
 #### Test Empathy Map
 ![Description of the image goes here e.g this is a stakeholder empathy map for the user](https://raw.githubusercontent.com/13078326j/jesslyn-/master/Empathy%20Map%20Canvas.png "This is the text that appears when you hover over the image")
-## Our Design and Proposed Solution
+## Our Proposed Solution
 
 ### Product Backlog
 
-## Solution Prototypes and Models
+## Solution Models
 
 ### Use Case Diagrams
 
