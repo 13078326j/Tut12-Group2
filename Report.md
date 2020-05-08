@@ -8,7 +8,7 @@
 2. [Problem Definition](#problem-definition)
     1. [Empathy Maps](#empathy-maps)
 3. [Our Propososed Solution](#our-proposed-solution)
-    1. [Product Backlog](#product-backlog)
+    1. [Solution Backlog](#solution-backlog)
 4. [Solution Models](#solution-models)
     1. [Use Case Diagrams](#use-case-diagrams)
     2. [Activity Diagrams](#activity-diagrams)
@@ -19,7 +19,7 @@
 <a name="Problem Definition"/>
 <a name="Empathy Maps"/>
 <a name="Our Proposed Solution"/>
-<a name="Product Backlog"/>
+<a name="Solution Backlog"/>
 <a name="Solution Models"/>
 <a name="Use Case Diagrams"/>
 <a name="Activity Diagrams"/>
@@ -38,8 +38,11 @@ execute design thinking\
 ![Description of the image goes here e.g this is a stakeholder empathy map for the user](https://raw.githubusercontent.com/13078326j/jesslyn-/master/Empathy%20Map%20Canvas.png "This is the text that appears when you hover over the image")
 ## Our Proposed Solution
 
-### Product Backlog
-
+### Solution Backlog
+Component | Description | Priority 1-Lowest 5-Highest | Completion Status
+------------ | ------------- | -------------- | ---------
+Test| test | 3 | - [x]
+Content column 1 | Content column 2 | tst | - []
 ## Solution Models
 
 ### Use Case Diagrams
