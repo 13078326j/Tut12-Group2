@@ -4,18 +4,18 @@
 ---
 ## Table of Contents 
 
-[Exectutive Summary](#Exectutive)\
-[Problem Definition](#Problem)\
-[Propososed Solution](#Solution)\
-[Solution Models](#Models)\
-[Conclusion](#Conclusion)\
-<a name="Exectutive Summary"/>
-<a name="Problem Definition"/>
-<a name="Our Design and Proposed Solution"/>
-<a name="Solution Prototypes and Models"/>
-<a name="Conclusion"/>
+[Executive Summary](#executive)\
+[Problem Definition](#problem)\
+[Propososed Solution](#our)\
+[Solution Models](#solution)\
+[Conclusion](#conclusion)\
+<a name="executive "/>
+<a name="problem"/>
+<a name="our"/>
+<a name="solution"/>
+<a name="conclusion"/>
 
-## Exectutive Summary
+## Executive Summary
 
 ## Problem Definition
 execute design thinking\
