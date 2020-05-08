@@ -4,20 +4,17 @@
 ---
 ## Table of Contents 
 
-[Executive Summary](#executive-summary)\
-[Problem Definition](#problem-definition)
-* [Empathy Maps](#empathy-maps)
-
-[Our Propososed Solution](#our-proposed-solution)
-* [Product Backlog](#product-backlog)
-
-[Solution Models](#solution-models)
-* [Use Case Diagrams](#use-case-diagrams)
-* [Activity Diagrams](#activity-diagrams)
-* [Class Diagram](#class-diagram)
-* [Collaborative Diagrams](#collaborative-diagrams)
-
-[Conclusion](#conclusion)
+1. [Executive Summary](#executive-summary)
+2. [Problem Definition](#problem-definition)
+    1. [Empathy Maps](#empathy-maps)
+3. [Our Propososed Solution](#our-proposed-solution)
+    1. [Product Backlog](#product-backlog)
+4. [Solution Models](#solution-models)
+    1. [Use Case Diagrams](#use-case-diagrams)
+    2. [Activity Diagrams](#activity-diagrams)
+    3. [Class Diagram](#class-diagram)
+    4. [Collaborative Diagrams](#collaborative-diagrams)
+5. [Conclusion](#conclusion)
 <a name="Executive Summary"/>
 <a name="Problem Definition"/>
 <a name="Empathy Maps"/>
