@@ -30,10 +30,19 @@
 ## Executive Summary
 
 ## Problem Definition
-fhksadjhfalskjdhflksadhlkjew4ahtl
-execute design thinking\
-(outline the objective of the project and define the problem)\
-(identify stakeholders)
+intro
+#### Stakeholders
+* Relationship Managers
+* Customers
+* Company Owner
+* Airline Companies
+* Hotel/Resort Companies
+* Telecommmunication Provider
+* Human Resources
+#### Point Of View Statements
+
+#### Assumptions
+
 ### Empathy Maps
 #### Relationship Managers
 ![rms](https://github.com/13078326j/jesslyn-/blob/master/Empathy%20Map%20Relationship%20Managers.png "Relationship Managers")
@@ -41,12 +50,13 @@ execute design thinking\
 ![customers](https://github.com/13078326j/jesslyn-/blob/master/Empathy%20Map%20-%20Customer.png "Customers")
 #### Company Owner
 ![company owner](https://github.com/13078326j/jesslyn-/blob/master/Company%20Owner.png "Company Owner")
+
 ## Our Proposed Solution
 
 ### Solution Backlog
 |Name     |Description  |Priority (1-Lowest 5-Highest)|Assgined to   |Task Completion Status|
 |---------|-------------|-----------------------------|--------------|----------------|
-|test     |test         | 3                           |adem          |<ul><li>- [x] </li></ul>|
+|test     |test         | 3                           |adem          |<ul><li>- [ ] </li></ul>|
 | Content | tst         | testttttttttt               |sdsfds        |<ul><li>- [ ] </li></ul>|
 ## Solution Models
 
