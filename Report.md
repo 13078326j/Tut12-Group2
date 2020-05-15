@@ -44,7 +44,14 @@ To develop an information system for a major travel company to improve the effic
 * Telecommmunication Provider
 * Human Resources
 #### Point Of View Statements
-
+1. User: Customers enquiring about holiday packages 
+   Need: To engage with Relationship Managers that are knowledgeable in desired package
+   Insight: Current system doesn't target matching between customers and suitable Relationship Managers
+   
+2. User: End-Customers looking for best deal on a certain package
+   Need: To engage with Relationship Managers that can find the best possible deal on said package
+   Insight: Current system lacks ability to filter Relationship Managers through skill level and performance
+    
 #### Assumptions
 
 ### Empathy Maps
