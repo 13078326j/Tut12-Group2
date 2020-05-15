@@ -51,8 +51,18 @@ To develop an information system for a major travel company to improve the effic
 2. User: End-Customers looking for best deal on a certain package  
    Need: To engage with Relationship Managers that can find the best possible deal on said package  
    Insight: Current system lacks ability to filter Relationship Managers through skill level and performance  
-    
+  
+3. User: Relationship Managers who wish to make the most deals for the most commission
+   Need: To connect with customers on a personal level so they can build rapport
+   Insight: Current system does not profile customers and RMs in terms of their age, sex, culture or language proficiency
+
+4. User: Customer wants to talk to a representative of the company as soon as possible and does not want to wait on hold
+   Need: An Interactive Voice Response unit and Automatic Call Distributer to handle their request
+   Insight: Current system poorly handles caller overflow and many customers hang up
 #### Assumptions
+1. The company owner made the decision to remake and improve the call management centre information system.
+2. Relationship managers are incentivised to make sales in order to earn commission
+3. All insights made towards the existing (old) system are assumed based on the requests made in the discussion topic
 
 ### Empathy Maps
 #### Relationship Managers
@@ -65,8 +75,8 @@ To develop an information system for a major travel company to improve the effic
 ## Our Proposed Solution
 
 ### Solution Backlog
-|Name     |Description  |Priority (1-Lowest 5-Highest)|Assgined to   |Task Completion Status|
-|---------|-------------|-----------------------------|--------------|----------------|
+|Name     |Description  |Priority (1-Lowest 5-Highest)|Assgined to   |Task Completion Status  |
+|---------|-------------|-----------------------------|--------------|------------------------|
 |test     |test         | 3                           |adem          |<ul><li>- [ ] </li></ul>|
 | Content | tst         | testttttttttt               |sdsfds        |<ul><li>- [ ] </li></ul>|
 ## Solution Models
