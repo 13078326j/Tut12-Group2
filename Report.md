@@ -34,8 +34,12 @@ execute design thinking\
 (outline the objective of the project and define the problem)\
 (identify stakeholders)
 ### Empathy Maps
-#### Test Empathy Map
-![Description of the image goes here e.g this is a stakeholder empathy map for the user](https://raw.githubusercontent.com/13078326j/jesslyn-/master/Empathy%20Map%20Canvas.png "This is the text that appears when you hover over the image")
+#### Relationship Managers
+![rms](https://github.com/13078326j/jesslyn-/blob/master/Empathy%20Map%20Relationship%20Managers.png "Relationship Managers")
+#### Customers
+![customers](https://github.com/13078326j/jesslyn-/blob/master/Empathy%20Map%20-%20Customer.png "Customers")
+#### Company Owner
+![company owner](https://github.com/13078326j/jesslyn-/blob/master/Company%20Owner.png "Company Owner")
 ## Our Proposed Solution
 
 ### Solution Backlog
