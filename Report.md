@@ -30,7 +30,11 @@
 ## Executive Summary
 
 ## Problem Definition
-intro
+
+(placeholder text)
+To develop an information system for a major travel company to improve the efficiency of their call management centre.
+
+
 #### Stakeholders
 * Relationship Managers
 * Customers
