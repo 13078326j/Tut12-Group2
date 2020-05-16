@@ -74,7 +74,7 @@ To develop an information system for a major travel company to improve the effic
 4. Relationship managers with higher skills will get more matches with a customer to offer higher quality services. This might translate into more customers
 5. When dealing with a customer, relationship managers must have knowledge about all the holiday packages thats on sale
 6. Relationship managers must be persuasive so that they can sell more holiday packages and earn the customer's trust
-
+7. Assume that the initial 10 minute profile questionnaire for relationship managers is adequate enough for a strong base 
 ### Empathy Maps
 #### Relationship Managers
 ![rms](https://github.com/13078326j/jesslyn-/blob/master/Empathy%20Map%20Relationship%20Managers.png "Relationship Managers")
