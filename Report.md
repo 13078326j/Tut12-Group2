@@ -59,10 +59,21 @@ To develop an information system for a major travel company to improve the effic
 4. User: Customer wants to talk to a representative of the company as soon as possible and does not want to wait on hold\
    Need: An Interactive Voice Response unit and Automatic Call Distributer to handle their request\
    Insight: Current system poorly handles caller overflow and many customers hang up
+
+5. User: Customer wants to get higher scores so that they are served first
+   Need: Getting a score from 1-10 based on the likelihood to purchase the product according to some pre-loaded criteria 
+   Insight: Current system only serves customers with higher scores first and make the lower score customers wait.
+   
+6. User: 
+   Need:
+   Insight: 
 #### Assumptions
 1. The company owner made the decision to remake and improve the call management centre information system.
 2. Relationship managers are incentivised to make sales in order to earn commission
 3. All insights made towards the existing (old) system are assumed based on the requests made in the discussion topic
+4. Relationship managers with higher skills will get more matches with a customer to offer higher quality services. This might translate into more customers
+5. When dealing with a customer, relationship managers must have knowledge about all the holiday packages thats on sale
+6. Relationship managers must be persuasive so that they can sell more holiday packages and earn the customer's trust
 
 ### Empathy Maps
 #### Relationship Managers
