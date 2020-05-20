@@ -64,8 +64,8 @@ To develop an information system for a major travel company to improve the effic
    Need: Getting a score from 1-10 based on the likelihood to purchase the product according to some pre-loaded criteria 
    Insight: Current system only serves customers with higher scores first and make the lower score customers wait.
    
-6. User: Relationship Managers want to help as many customers as possible
-   Need: To be assigned customers as efficiently as possible
+6. User: Relationship Managers want to help as many customers as possible                   
+   Need: To be assigned customers as efficiently as possible                           
    Insight: Current system ineffeciently assigns a customer to a relationship manager
 #### Assumptions
 1. The company owner made the decision to remake and improve the call management centre information system.
