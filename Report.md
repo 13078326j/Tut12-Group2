@@ -84,7 +84,7 @@ To develop an information system for a major travel company to improve the effic
    Insight: Current system ineffeciently assigns a customer to a relationship manager
 
 #### Reflection
-
+Empathy is our ability to see and experience the world in the eyes of others, and to see what they see and feel and what they do. We can't fully experience things like somebody else does, but we can try to get as close as possible, and we do this by putting aside our own preconceived ideas and choosing instead to understand others' ideas, thoughts and needs.
 
 #### How Might We Statements
 1.
