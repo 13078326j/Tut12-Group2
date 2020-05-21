@@ -57,6 +57,7 @@ To develop an information system for a major travel company to improve the effic
 5. When dealing with a customer, relationship managers must have knowledge about all the holiday packages thats on sale
 6. Relationship managers must be persuasive so that they can sell more holiday packages and earn the customer's trust
 7. Assume that the initial 10 minute profile questionnaire for relationship managers is adequate enough for a strong base 
+8. The develoment of the software is outsource to external company
 #### Point Of View Statements
 1. User: Customers enquiring about holiday packages   
    Need: To engage with Relationship Managers that are knowledgeable in desired package  
@@ -82,10 +83,16 @@ To develop an information system for a major travel company to improve the effic
    Need: To be assigned customers as efficiently as possible                           
    Insight: Current system ineffeciently assigns a customer to a relationship manager
 
-#### Reflections
+#### Reflection
+
 
 #### How Might We Statements
-
+1.
+2.
+3.
+4.
+5. How might we find a new way to make the system equal without serving customer based on scores?
+6.
 
 ## Our Proposed Solution
 
