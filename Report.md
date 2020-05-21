@@ -60,9 +60,9 @@ To develop an information system for a major travel company to improve the effic
    Need: An Interactive Voice Response unit and Automatic Call Distributer to handle their request\
    Insight: Current system poorly handles caller overflow and many customers hang up
 
-5. User: Customer wants to get higher scores so that they are served first
-   Need: Getting a score from 1-10 based on the likelihood to purchase the product according to some pre-loaded criteria 
-   Insight: Current system only serves customers with higher scores first and make the lower score customers wait.
+5. User: Customer wants to get higher scores so that they are served first\
+   Need: Getting a score from 1-10 based on the likelihood to purchase the product according to some pre-loaded criteria\
+   Insight:Current system only serves customers with higher scores first and make the lower score customers wait.
    
 6. User: Relationship Managers want to help as many customers as possible                   
    Need: To be assigned customers as efficiently as possible                           
