@@ -31,9 +31,7 @@
 
 ## Problem Definition
 
-(placeholder text)
-To develop an information system for a major travel company to improve the efficiency of their call management centre.
-
+To develop an information system for a major travel company to improve the efficiency of their call management centre between  Relationship Managers and customers.
 
 #### Stakeholders
 * Relationship Managers
@@ -43,6 +41,14 @@ To develop an information system for a major travel company to improve the effic
 * Hotel/Resort Companies
 * Telecommmunication Provider
 * Human Resources
+#### Assumptions
+1. The company owner made the decision to remake and improve the call management centre information system.
+2. Relationship managers are incentivised to make sales in order to earn commission
+3. All insights made towards the existing (old) system are assumed based on the requests made in the discussion topic
+4. Relationship managers with higher skills will get more matches with a customer to offer higher quality services. This might translate into more customers
+5. When dealing with a customer, relationship managers must have knowledge about all the holiday packages thats on sale
+6. Relationship managers must be persuasive so that they can sell more holiday packages and earn the customer's trust
+7. Assume that the initial 10 minute profile questionnaire for relationship managers is adequate enough for a strong base 
 #### Point Of View Statements
 1. User: Customers enquiring about holiday packages   
    Need: To engage with Relationship Managers that are knowledgeable in desired package  
@@ -67,14 +73,7 @@ To develop an information system for a major travel company to improve the effic
 6. User: Relationship Managers want to help as many customers as possible                   
    Need: To be assigned customers as efficiently as possible                           
    Insight: Current system ineffeciently assigns a customer to a relationship manager
-#### Assumptions
-1. The company owner made the decision to remake and improve the call management centre information system.
-2. Relationship managers are incentivised to make sales in order to earn commission
-3. All insights made towards the existing (old) system are assumed based on the requests made in the discussion topic
-4. Relationship managers with higher skills will get more matches with a customer to offer higher quality services. This might translate into more customers
-5. When dealing with a customer, relationship managers must have knowledge about all the holiday packages thats on sale
-6. Relationship managers must be persuasive so that they can sell more holiday packages and earn the customer's trust
-7. Assume that the initial 10 minute profile questionnaire for relationship managers is adequate enough for a strong base 
+
 ### Empathy Maps
 #### Relationship Managers
 ![rms](https://github.com/13078326j/jesslyn-/blob/master/Empathy%20Map%20Relationship%20Managers.png "Relationship Managers")
