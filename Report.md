@@ -49,7 +49,7 @@ To develop an information system for a major travel company to improve the effic
 * Hotel/Resort Companies
 * Telecommmunication Provider
 * Human Resources
-#### Assumptions
+### Assumptions
 1. The company owner made the decision to remake and improve the call management centre information system.
 2. Relationship managers are incentivised to make sales in order to earn commission
 3. All insights made towards the existing (old) system are assumed based on the requests made in the discussion topic
