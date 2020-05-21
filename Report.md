@@ -11,6 +11,7 @@
     3. [Assumptions](#assumptions)
     4. [Point of View Statements](#point-of-view-statements)
     5. [Reflection](#reflection)
+    6. [How Might We Statements](#how-might-we-statements)
 3. [Our Propososed Solution](#our-proposed-solution)
     1. [Solution Backlog](#solution-backlog)
 4. [Solution Models](#solution-models)
@@ -26,6 +27,7 @@
 <a name="Assumptions"/>
 <a name="Point of View Statements"/>
 <a name="Reflection"/>
+<a name="How Might We Statements"/>
 <a name="Our Proposed Solution"/>
 <a name="Solution Backlog"/>
 <a name="Solution Models"/>
