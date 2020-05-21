@@ -33,6 +33,14 @@
 
 To develop an information system for a major travel company to improve the efficiency of their call management centre between  Relationship Managers and customers.
 
+### Empathy Maps
+#### Relationship Managers
+![rms](https://github.com/13078326j/jesslyn-/blob/master/Empathy%20Map%20Relationship%20Managers.png "Relationship Managers")
+#### Customers
+![customers](https://github.com/13078326j/jesslyn-/blob/master/Empathy%20Map%20-%20Customer.png "Customers")
+#### Company Owner
+![company owner](https://github.com/13078326j/jesslyn-/blob/master/Company%20Owner.png "Company Owner")
+
 #### Stakeholders
 * Relationship Managers
 * Customers
@@ -75,16 +83,9 @@ To develop an information system for a major travel company to improve the effic
    Insight: Current system ineffeciently assigns a customer to a relationship manager
 
 #### Reflections
+
 #### How Might We Statements
 
-
-### Empathy Maps
-#### Relationship Managers
-![rms](https://github.com/13078326j/jesslyn-/blob/master/Empathy%20Map%20Relationship%20Managers.png "Relationship Managers")
-#### Customers
-![customers](https://github.com/13078326j/jesslyn-/blob/master/Empathy%20Map%20-%20Customer.png "Customers")
-#### Company Owner
-![company owner](https://github.com/13078326j/jesslyn-/blob/master/Company%20Owner.png "Company Owner")
 
 ## Our Proposed Solution
 
