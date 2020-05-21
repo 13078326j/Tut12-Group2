@@ -41,7 +41,7 @@ To develop an information system for a major travel company to improve the effic
 #### Company Owner
 ![company owner](https://github.com/13078326j/jesslyn-/blob/master/Company%20Owner.png "Company Owner")
 
-#### Stakeholders
+### Stakeholders
 * Relationship Managers
 * Customers
 * Company Owner
