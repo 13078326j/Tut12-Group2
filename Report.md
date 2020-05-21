@@ -8,6 +8,7 @@
 2. [Problem Definition](#problem-definition)
     1. [Empathy Maps](#empathy-maps)
     2. [Stakeholders](#stakeholders)
+    3. [Assumptions](#assumptions)
 3. [Our Propososed Solution](#our-proposed-solution)
     1. [Solution Backlog](#solution-backlog)
 4. [Solution Models](#solution-models)
@@ -20,6 +21,7 @@
 <a name="Problem Definition"/>
 <a name="Empathy Maps"/>
 <a name="Stakeholders"/>
+<a name="Assumptions"/>
 <a name="Our Proposed Solution"/>
 <a name="Solution Backlog"/>
 <a name="Solution Models"/>
