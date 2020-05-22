@@ -108,10 +108,29 @@ Empathy is our ability to see and experience the world in the eyes of others, an
 ## Our Proposed Solution
 
 ### Solution Backlog
-|Name     |Description  |Priority (1-Lowest 5-Highest)|Assgined to   |Task Completion Status  |
-|---------|-------------|-----------------------------|--------------|------------------------|
-|test     |test         | 3                           |adem          |<ul><li>- [ ] </li></ul>|
-| Content | tst         | testttttttttt               |sdsfds        |<ul><li>- [ ] </li></ul>|
+Backlogs are sorted by priority from highest to lowest.
+#### Product Solutions 
+<table>
+  <tboddy>
+    <tr>
+      <th>Deliverable</th>
+      <th>User Stories</th>
+      <th>Completion</th>
+    </tr>
+    <tr>
+      <td>Automatic call routing and dynamic call flow control system</td>
+      <td><a href="https://github.com/13078326j/Tut12-Group2/issues/9">#9</a></td>
+      <td>- [ ]</td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+#### Project Tasks
+
+
 ## Solution Models
 
 ### Use Case Diagrams
