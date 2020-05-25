@@ -97,12 +97,12 @@ To develop an information system for a major travel company to improve the effic
 4. Assume a strong economy, without major recession.
 5. Assume that economic policy developments are not unexpected to make our service redundant or undesirable.
 6. End-customers will be available for testing during the time they agree to do so.
-7. The cost of the project will remain the same as the initial cost
-8. Different departments must provide licence funding as needed
-9. Project will follow agile methodology throughout execution
-10.Training rooms for relationship managers will be available at the training center as needed
-11.The scope of the project will not change as soon as the stakeholders sign the scope statement
-12.Relevant stakeholders will attend weekly meeting for discussions.
+7. The cost of the project will remain the same as the initial cost.
+8. Different departments must provide licence funding as needed.
+9. Project will follow agile methodology throughout execution.\
+10.Training rooms for relationship managers will be available at the training center as needed.\
+11.The scope of the project will not change as soon as the stakeholders sign the scope statement.\
+12.Relevant stakeholders will attend weekly meeting for discussions.\
 
 
 ### How Might We Statements
