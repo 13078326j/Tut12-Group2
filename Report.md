@@ -100,7 +100,10 @@ To develop an information system for a major travel company to improve the effic
 7. The cost of the project will remain the same as the initial cost
 8. Different departments must provide licence funding as needed
 9. Project will follow agile methodology throughout execution
-10. 
+10.Training rooms for relationship managers will be available at the training center as needed
+11.The scope of the project will not change as soon as the stakeholders sign the scope statement
+12.
+
 
 ### How Might We Statements
 1. How might we ensure customers can engage with relationship managers that are knowledgeable for their desired package?  
