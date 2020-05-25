@@ -62,12 +62,9 @@ To develop an information system for a major travel company to improve the effic
 ### Assumptions
 1. The company owner made the decision to remake and improve the call management centre information system.
 2. Relationship managers are incentivised to make sales in order to earn commission
-3. All insights made towards the existing (old) system are assumed based on the requests made in the discussion topic
 4. Relationship managers with higher skills will get more matches with a customer to offer higher quality services. This might translate into more customers
 5. When dealing with a customer, relationship managers must have knowledge about all the holiday packages thats on sale
 6. Relationship managers must be persuasive so that they can sell more holiday packages and earn the customer's trust
-7. Assume that the initial 10 minute profile questionnaire for relationship managers is adequate enough for a strong base 
-8. The develoment of the software is outsource to external company
 ### Point Of View Statements
 1. User: Customers enquiring about holiday packages   
    Need: To engage with Relationship Managers that are knowledgeable in desired package  
@@ -94,8 +91,16 @@ To develop an information system for a major travel company to improve the effic
    Insight: Current system ineffeciently assigns a customer to a relationship manager
 
 ### Reflection
-Design Thinking Step 1  
-Empathy is our ability to see and experience the world in the eyes of others, and to see what they see and feel and what they do. We can't fully experience things like somebody else does, but we can try to get as close as possible, and we do this by putting aside our own preconceived ideas and choosing instead to understand others' ideas, thoughts and needs. Through this process, we have understood the wants and requirements that were highlighted in the specification. When analysing this specification through the use of empathy maps, customers, relationship managers and company owners all require for the upgraded system to be more user and operator friendly in the terms of meaningful sales matches and the improvement of the call system, along with easy updating to track relationship manager performance.  
+1. All insights made towards the existing (old) system are assumed based on the requests made in the discussion topic
+2. Assume that the initial 10 minute profile questionnaire for relationship managers is adequate enough for a strong base 
+3. The development of the software is outsource to external company
+4. Assume a strong economy, without major recession.
+5. Assume that economic policy developments are not unexpected to make our service redundant or undesirable.
+6. End-customers will be available for testing during the time they agree to do so.
+7. The cost of the project will remain the same as the initial cost
+8. Different departments must provide licence funding as needed
+9. Project will follow agile methodology throughout execution
+10. 
 
 ### How Might We Statements
 1. How might we ensure customers can engage with relationship managers that are knowledgeable for their desired package?  
