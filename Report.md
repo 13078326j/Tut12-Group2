@@ -98,8 +98,8 @@ Design Thinking Step 1
 Empathy is our ability to see and experience the world in the eyes of others, and to see what they see and feel and what they do. We can't fully experience things like somebody else does, but we can try to get as close as possible, and we do this by putting aside our own preconceived ideas and choosing instead to understand others' ideas, thoughts and needs. Through this process, we have understood the wants and requirements that were highlighted in the specification. When analysing this specification through the use of empathy maps, customers, relationship managers and company owners all require for the upgraded system to be more user and operator friendly in the terms of meaningful sales matches and the improvement of the call system, along with easy updating to track relationship manager performance.  
 
 ### How Might We Statements
-1. How might we ensure customers can engage with relationship managers that are knowledgeable for their desired package?\  
-2. How might we ensure customers can engage with relationship managers to find the best deals from the holiday package?\
+1. How might we ensure customers can engage with relationship managers that are knowledgeable for their desired package?  
+2. How might we ensure customers can engage with relationship managers to find the best deals from the holiday package?
 3. How might we find a way to connect with customers on a personal level to build a rapport?
 4. How might we improve the current system to not let customers hang up when waiting on hold?
 5. How might we find a new way to make the system equal without serving customer based on scores?
