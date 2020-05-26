@@ -144,7 +144,7 @@ Backlogs are sorted by priority from highest to lowest.
 ## Solution Models
 
 ### Use Case Diagrams
-
+![Use Case Diagram](USE%20CASE%20DIAGRAM3.png)
 ### Activity Diagrams
 
 ### Class Diagram
