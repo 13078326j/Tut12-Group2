@@ -7,4 +7,3 @@
 ## Iterative 3
 ![Use Case Diagram 3](USE%20CASE%20DIAGRAM3.png)
 
-USE%20CASE%20DIAGRAM3.png
