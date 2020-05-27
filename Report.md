@@ -104,6 +104,8 @@ To develop an information system for a major travel company to improve the effic
 11. The scope of the project will not change as soon as the stakeholders sign the scope statement.
 12. Relevant stakeholders will attend weekly meeting for discussions.
 13. There is a sub-system that matches with relationship manager and customer
+14. Different departments will provide licence funding, as necessary.
+15. Internally, training is carried out without any additional costs.
 
 
 ### How Might We Statements
