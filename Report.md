@@ -106,6 +106,7 @@ To develop an information system for a major travel company to improve the effic
 13. There is a sub-system that matches with relationship manager and customer
 14. Different departments will provide licence funding, as necessary.
 15. Internally, training is carried out without any additional costs.
+16. The project will follow the principles and criteria of team governance.
 
 
 ### How Might We Statements
