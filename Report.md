@@ -1,6 +1,6 @@
 # Call Management Centre Information System: Report
 ### Group 2 - Syed Aziz, Sahil Chowdhury, Ivan David, Jesslyn Iskandar, Adem Deojee
-#### Information Systems Development Methodologies Group Project
+#### Information Systems Development Methodologies Project
 ---
 ## Table of Contents 
 
@@ -160,6 +160,18 @@ Backlogs are sorted by priority from highest to lowest.
 ### Competitive Advantages
 
 ### Possible Effects of Project Failure
-#### 
+#### Extra Resource Costs
+As the costs of developing and undertaking a project are quite high, especially concerning resources linked to employees and equipment, a failure in the end product regarding stated requirements and business needs is disastrous for the call management centre as potential profits will be lost and funds will be wasted for no significant gain.
+#### Missed Opportunity
+The travel company’s business requirement of improving the operations of the in-house call management centre through the development of an information system linking the most suitable Relationship Managers to customers, may become a missed opportunity for success as if the project fails, the team would have to backtrack to fix the issues. However, this may not be possible if the requirements change drastically, as is common in modern business environments, thereby causing a loss in resources and financial gain.
+#### Loss of Developers
+If the project to improve the call management centre were to fail, the travel company’s Information Technology and Systems Development team may suffer significantly as many of the talented and skilled employees may not tolerate failure as it can make their career record appear deficient, causing them to leave the company and search for more successful teams. 
+#### Decrease in Innovation & Advancement
+Another possible effect of project failure includes the loss of future success as innovation and technological systems advancements would significantly reduce. As teams realise their project has failed, extra resources and focus will be unfortunately applied to improve the project, contributing to draining of these assets from important areas.
+#### Employee Erosion
+The organisation itself and its members may also suffer dramatically if the call management centre project were to fail regarding employee confidence, motivation, team relations, and acceptance to required change. Employees may second-guess every decision, constantly reminded of failure, blaming and bickering over responsibility for the failure, and hesitation due to increased fear of the unknown. 
+
+
+
 
 
