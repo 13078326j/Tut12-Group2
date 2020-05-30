@@ -42,4 +42,4 @@ to 3 or 4) user stories can be used to create a use case. The use cases are then
 
 
 Week 4 (E.g. Potential benefits to the call center (in terms of reducing cost and being able to carry out more effective calls). Around 500 words
-
+10 min Powerpoint presentation with voice-overs (each member 2 min each)
