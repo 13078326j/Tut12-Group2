@@ -1,6 +1,6 @@
 # Call Management Centre Information System: Report
 ### Group 2 - Syed Aziz, Sahil Chowdhury, Ivan David, Jesslyn Iskandar, Adem Deojee
-#### Information Systems Development Methodologies Project
+#### Information Systems Development Methodologies Group Project
 ---
 ## Table of Contents 
 
