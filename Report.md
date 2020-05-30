@@ -151,7 +151,7 @@ Backlogs are sorted by priority from highest to lowest.
 ### Use Case Diagrams
 ![Use Case Diagram](USE%20CASE%20DIAGRAM3.png)
 ### Activity Diagrams
-
+![Activity Diagram](https://github.com/13078326j/Tut12-Group2/blob/master/activity%20diagram%20iterative%203.png)
 ### Class Diagram
 ![Class Diagram](https://github.com/13078326j/Tut12-Group2/blob/master/Class%20Diagram%20Iterative%203.png)
 ### Collaborative Diagrams
