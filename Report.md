@@ -153,7 +153,7 @@ Backlogs are sorted by priority from highest to lowest.
 ### Activity Diagrams
 
 ### Class Diagram
-
+![Class Diagram](https://github.com/13078326j/Tut12-Group2/blob/master/Class%20Diagram%20Iterative%203.png)
 ### Collaborative Diagrams
 
 ## Conclusion
