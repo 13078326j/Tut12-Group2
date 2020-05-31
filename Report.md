@@ -228,7 +228,7 @@ Backlogs are sorted by priority from highest to lowest.
 ### Activity Diagrams
 ![Activity Diagram](https://github.com/13078326j/Tut12-Group2/blob/master/activity%20diagram%20iterative%203.png)
 ### Class Diagram
-![Class Diagram](https://github.com/13078326j/Tut12-Group2/blob/master/Class%20Diagram%20Iterative%203.png)
+![Class Diagram](https://github.com/13078326j/Tut12-Group2/blob/master/Class%20Diagram%20Iterative%204.png)
 ### Collaborative Diagrams
 
 ## Conclusion
