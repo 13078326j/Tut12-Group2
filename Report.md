@@ -20,6 +20,8 @@
     3. [Class Diagram](#class-diagram)
     4. [Collaborative Diagrams](#collaborative-diagrams)
 5. [Conclusion](#conclusion)
+    1. [Competitve Advantages](#competitive-advantages)
+    2. [Possible Effect of Project Failure](#possible-effects-of-project-failure)
 <a name="Executive Summary"/>
 <a name="Problem Definition"/>
 <a name="Empathy Maps"/>
@@ -36,6 +38,8 @@
 <a name="Class Diagram"/>
 <a name="Collaborative Diagrams"/>
 <a name="Conclusion"/>
+<a name="Competitive Advantages"/>
+<a name="Possible Effects of Project Failure"/>
 
 ## Executive Summary
 
@@ -126,7 +130,7 @@ To develop an information system for a major travel company to improve the effic
 Backlogs are sorted by priority from highest to lowest.
 #### Product Solutions 
 <table>
-  <tboddy>
+  <tbody>
     <tr>
       <th>Deliverable</th>
       <th>User Stories</th>
@@ -135,16 +139,67 @@ Backlogs are sorted by priority from highest to lowest.
     <tr>
       <td>Automatic call routing and dynamic call flow control system</td>
       <td><a href="https://github.com/13078326j/Tut12-Group2/issues/9">#9</a></td>
-      <td>- [ ]</td>
+      <td><li> - [ ] </li></td>
     </tr>
     <tr>
-      <td></td>
+      <td>Customer and Relationship Manager Skill Score Calculator</td>
+      <td><a href="https://github.com/13078326j/Tut12-Group2/issues/9">#9, <a href="https://github.com/13078326j/Tut12-Group2/issues/7">#7, </a> <a href="https://github.com/13078326j/Tut12-Group2/issues/11">#11</a></td>
+      <td><li> - [ ] </li></td>
+    </tr>
+    <tr>
+      <td>Profiler Tool and its applications (target list, script/guideline provider, etc.)</td>
+      <td><a href="https://github.com/13078326j/Tut12-Group2/issues/9">#9, <a href="https://github.com/13078326j/Tut12-Group2/issues/19">#19, </a><a href="https://github.com/13078326j/Tut12-Group2/issues/10">#10, </a><a href="https://github.com/13078326j/Tut12-Group2/issues/6">#6, </a><a href="https://github.com/13078326j/Tut12-Group2/issues/5">#5, </a><a href="https://github.com/13078326j/Tut12-Group2/issues/7">#7</a></td>
+      <td><li> - [ ] </li></td>
+    </tr>
+     <tr>
+      <td>Interactive Voice Response Unit</td>
+      <td><a href="https://github.com/13078326j/Tut12-Group2/issues/12">#12, </a><a href="https://github.com/13078326j/Tut12-Group2/issues/12">#8</a></td>
+      <td><li> - [ ] </li></td>
     </tr>
   </tbody>
 </table>
 
 #### Project Tasks
-
+<table>
+  <tbody>
+    <tr>
+      <th>Deliverable</th>
+      <th>Issue Link</th>
+      <th>Assigned to</th>
+      <th>Completion</th>
+    </tr>
+    <tr>
+      <td>Business Report</td>
+      <td><a href="https://github.com/13078326j/Tut12-Group2/issues/2">#2</a></td>
+      <td><a href="https://github.com/ademdeojee">@ademdeojee</a>
+      <td><li> - [x] </li></td>
+    </tr>
+    <tr>
+      <td>Use Case Diagram</td>
+      <td><a href="https://github.com/13078326j/Tut12-Group2/issues/13">#13</a></td>
+      <td><a href="https://github.com/13078326j">@13078326j</a>
+      <td><li> - [x] </li></td>
+    </tr>
+    <tr>
+      <td>Class Diagram</td>
+      <td><a href="https://github.com/13078326j/Tut12-Group2/issues/21">#21</a></td>
+      <td><a href="https://github.com/Syed-Aziz">@Syed-Aziz</a>
+      <td><li> - [x] </li></td>
+    </tr>
+    <tr>
+      <td>Activity Diagram</td>
+      <td><a href="https://github.com/13078326j/Tut12-Group2/issues/16">#16, </a><a href="https://github.com/13078326j/Tut12-Group2/issues/15">#15</a></td>
+      <td><a href="https://github.com/13773357">@13773357</a>
+      <td><li> - [x] </li></td>
+    </tr>  
+    <tr>
+      <td>Collaborative Diagram</td>
+      <td><a href="https://github.com/13078326j/Tut12-Group2/issues/17">#17, </a><a href="https://github.com/13078326j/Tut12-Group2/issues/18">#18</a></td>
+      <td><a href="https://github.com/Ivydude10">@Ivydude10</a>
+      <td><li> - [x] </li></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Solution Models
 
@@ -158,7 +213,12 @@ Backlogs are sorted by priority from highest to lowest.
 
 ## Conclusion
 ### Competitive Advantages
-
+#### Increased Call Efficiency
+The implementation of an updated automatic call routing system with dynamic flow control will allow for a faster and more efficient way of handling customers inbound and outbound calls. This means that now more customers will be interacted with in a shorter timespan, which provides an advantage over competitors as more potential clients can be reached per day over a competitor. This leads to more market influence and sales over time.
+#### Better Customer Interaction, Satisfaction, Retention, and Sales Rate
+The creation of both the skill score system and profiler tool will not only provide a customer satisfaction and sales benefit over competitors, but will also improve the satisfaction of sales employees who get commission. The questionnaire will be a very small 10 minute time investment which will will allow for the profiling system to match RMs with the right customers. The pre-existing social and cultural traits that the employee and customer have in common, in partnership with the automatically provided target list, product knowledge, script, and guidelines, will substantially increase the chance of sale and customer retention. Furthermore, the skill score and customer score system will create better opportunities and higher sale chance with high priority customers, as they will be preferenced by the system. 
+#### Improved Relationship Manager Performance
+The addition of a RM scoring system will incentivise the employees to work harder and smarter. As they increase their skill score, the quality and volume amount of customers will increase due to their high priority, thus allowing for more commission. The repeated evaluation of their performance will always keep them striving for more. This will lead to more sales and profit in the long run.
 ### Possible Effects of Project Failure
 #### Extra Resource Costs
 As the costs of developing and undertaking a project are quite high, especially concerning resources linked to employees and equipment, a failure in the end product regarding stated requirements and business needs is disastrous for the call management centre as potential profits will be lost and funds will be wasted for no significant gain.
@@ -169,9 +229,4 @@ If the project to improve the call management centre were to fail, the travel co
 #### Decrease in Innovation & Advancement
 Another possible effect of project failure includes the loss of future success as innovation and technological systems advancements would significantly reduce. As teams realise their project has failed, extra resources and focus will be unfortunately applied to improve the project, contributing to draining of these assets from important areas.
 #### Employee Erosion
-The organisation itself and its members may also suffer dramatically if the call management centre project were to fail regarding employee confidence, motivation, team relations, and acceptance to required change. Employees may second-guess every decision, constantly reminded of failure, blaming and bickering over responsibility for the failure, and hesitation due to increased fear of the unknown. 
-
-
-
-
-
+The organisation itself and its members may also suffer dramatically if the call management centre project were to fail regarding employee confidence, motivation, team relations, and acceptance to required change. Employees may second-guess every decision, constantly reminded of failure, blaming and bickering over responsibility for the failure, and hesitation due to increased fear of the unknown.
