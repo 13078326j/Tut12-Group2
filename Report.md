@@ -43,9 +43,15 @@
 
 ## Executive Summary
 
-## Problem Definition
+## Objective 
+The objective of this project is to deal with the current problems of the Call Management Center’s operations and propose an improved solution in the form of a new information system. The solution proposed will also allow the Call Management Center to handle the requests and calls from customers and relationship managers for sales of the holiday package. In addition, the new program would allow the travel company, due to improved analytical processes, to target potential customers or delay existing customers.
 
-To develop an information system for a major travel company to improve the efficiency of their call management centre between  Relationship Managers and customers.
+## Problem Definition
+Due to the high number of holiday packages and difficulty with effectively converting customers to purchase the current operational activities of the Call Management center. The problem includes:
+* Unacceptable waiting time for customers
+* Lack of customer information and inefficiency in redirecting customers to relationship managers who are capable of helping.
+This has led to slow call rates, waste of organizational resources and a negative customer relationship. Customer intentions cannot be fully understood by relationship managers, which means that customers can be redirected or simply hanging up several times.
+
 
 ### Empathy Maps
 #### Relationship Managers
@@ -69,6 +75,7 @@ To develop an information system for a major travel company to improve the effic
 4. Relationship managers with higher skills will get more matches with a customer to offer higher quality services. This might translate into more customers
 5. When dealing with a customer, relationship managers must have knowledge about all the holiday packages thats on sale
 6. Relationship managers must be persuasive so that they can sell more holiday packages and earn the customer's trust
+
 ### Point Of View Statements
 1. User: Customers enquiring about holiday packages   
    Need: To engage with Relationship Managers that are knowledgeable in desired package  
@@ -95,6 +102,13 @@ To develop an information system for a major travel company to improve the effic
    Insight: Current system ineffeciently assigns a customer to a relationship manager
 
 ### Reflection
+The project started with understanding the assigned case study and the first stage of design thinking (empathy). Based on the discussion topic, we identified the stakeholders with and involved in the implementation of a call routing system for the travel company.
+
+For the key stakeholders who we felt will be most impacted and have the most insight on the changed processes, we have developed empathy maps. For customers, relationship managers and company owner, our empathy maps are created. We have provided corresponding POV (point of view) statements along with our empathy maps, which have identified the needs and perspectives of stakeholders with regard to the call system.
+
+We have been able to define the issue in step 2 of the Design Thinking process through the empathy maps and POV statements. We have found that it is crucial for customers to minimize the waiting time for calls and to be matched with a Relationship Manager that is suitable for their needs and queries. It is essential for relationship managers to be well suited for their customer requirements.
+
+### Assumption outside the project specification
 1. All insights made towards the existing (old) system are assumed based on the requests made in the discussion topic
 2. Assume that the initial 10 minute profile questionnaire for relationship managers is adequate enough for a strong base 
 3. The development of the software is outsource to external company
@@ -113,7 +127,6 @@ To develop an information system for a major travel company to improve the effic
 16. The project will follow the principles and criteria of team governance.
 17. Project servers arrive configured as expected.
 18. The correct number of handheld devices arrives without delays at the target delivery date.
-
 
 ### How Might We Statements
 1. How might we ensure customers can engage with relationship managers that are knowledgeable for their desired package?  
