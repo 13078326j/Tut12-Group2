@@ -45,8 +45,9 @@
 
 ## Executive Summary
 #### Purpose of the report 
-This report analyzes and evaluates the Call Management Center's program by creating a new improved information system. 
+This report analyzes and evaluates the Call Management Center's program by creating a new improved information system for a major travel company. 
 This aims to translate raw data into usable information which will be used by Call Management Center to make decisions. 
+
 
 
 ## Problem Definition
