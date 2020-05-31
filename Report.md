@@ -14,6 +14,7 @@
     6. [How Might We Statements](#how-might-we-statements)
 3. [Our Propososed Solution](#our-proposed-solution)
     1. [Solution Backlog](#solution-backlog)
+    2. [Project Tasks](#project-tasks)
 4. [Solution Models](#solution-models)
     1. [Use Case Diagrams](#use-case-diagrams)
     2. [Activity Diagrams](#activity-diagrams)
@@ -32,6 +33,7 @@
 <a name="How Might We Statements"/>
 <a name="Our Proposed Solution"/>
 <a name="Solution Backlog"/>
+<a name="Project Tasks"/>
 <a name="Solution Models"/>
 <a name="Use Case Diagrams"/>
 <a name="Activity Diagrams"/>
