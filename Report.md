@@ -45,6 +45,8 @@
 
 ## Executive Summary
 #### Purpose of the report 
+A major travel company performs sales of holiday packages. Currently they offer services through their in-house call management centre (CMC). With this, Relationship Managers from the company are able to provide information on particular travel packages as well as perform sales to their end-customers and potential customers.
+
 This report analyzes and evaluates the Call Management Center's program by creating a new improved information system for a major travel company. 
 This aims to translate raw data into usable information which will be used by Call Management Center to make decisions. 
 
