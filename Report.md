@@ -67,19 +67,20 @@ The objective of this project is to deal with the current problems of the Call M
 ![company owner](https://github.com/13078326j/jesslyn-/blob/master/Company%20Owner.png "Company Owner")
 
 ### Stakeholders
-* Relationship Managers
-* Customers
-* Company Owner
-* Airline Companies
-* Hotel/Resort Companies
-* Telecommmunication Provider
-* Human Resources
-### Assumptions
+* Relationship Managers - Employees of the travel company and they will use the system to automate their calls and perform sales of holiday packages.
+* Customers - Will interact with the system when they call the company where they will be assigned to an appropriate relationship manager and customers will ask queries about their desired holiday package.
+* Company Owner - Owner of the travel company and wants to develop an information system to enhance their Call Management Center(CMC).
+* Airline Companies - Provides available ticket dates that the travel company can book for customers.
+* Hotel/Resort Companies - Gives access of the available hotel/resort to the travel company so they can book based on customers desired hotel/resort.
+* Telecommunication Provider - A type of communication service provider that the travel company uses. 
+
+### Assumptions on stakeholders
 1. The company owner made the decision to remake and improve the call management centre information system.
 2. Relationship managers are incentivised to make sales in order to earn commission
 4. Relationship managers with higher skills will get more matches with a customer to offer higher quality services. This might translate into more customers
 5. When dealing with a customer, relationship managers must have knowledge about all the holiday packages thats on sale
 6. Relationship managers must be persuasive so that they can sell more holiday packages and earn the customer's trust
+7. Airline Companies and Hotel/Resort companies gives access of their information to the travel company to make reservations.
 
 ### Point Of View Statements
 1. User: Customers enquiring about holiday packages   
@@ -104,7 +105,20 @@ The objective of this project is to deal with the current problems of the Call M
    
 6. User: Relationship Managers want to help as many customers as possible                   
    Need: To be assigned customers as efficiently as possible                           
-   Insight: Current system ineffeciently assigns a customer to a relationship manager
+   Insight: Current system ineffeciently assigns a customer to a relationship manager.
+   
+7. User: Relationship Managers who are having an outbound calling                  
+   Need: Customer details, guidelines and script to improve services to end-customer\                       
+   Insight: Current system lacks good quality services to end-customers.
+
+8. User: Travel company                    
+   Need: An information system to improve Call Management Center operations                     
+   Insight: Current system does not provide adequate amount of assitance to relationship managers in serving their end-customer.
+   
+9. User: Relationship Managers want to help as many customers as possible                   
+   Need: To be assigned customers as efficiently as possible                           
+   Insight: Current system ineffeciently assigns a customer to a relationship manager   
+   
 
 ### Reflection
 The project started with understanding the assignment case study and the first stage of design thinking (empathy). Based on the discussion topic, we identified the stakeholders with and involed in the implementation of a call routing system for the travel company. 
@@ -137,14 +151,20 @@ We have been able to define the issue in step 2 of the Design Thinking process t
 1. How might we ensure customers can engage with relationship managers that are knowledgeable for their desired package?  
 2. How might we ensure customers can engage with relationship managers to find the best deals from the holiday package?
 3. How might we find a way to connect with customers on a personal level to build a rapport?
-4. How might we improve the current system to not let customers hang up when waiting on hold?
+4. How might we minimise customer's call waiting time to not let customers hang up when waiting on hold?
 5. How might we find a new way to make the system equal without serving customer based on scores?
 6. How might we ensure relationship managers avoid only focusing on improving their ranking?
 7. How might we improve the current system to assign customers with relationship managers efficiently?
+8. How might we improve the relationship between customer and relationship manager?
+9. How might we improve customer's phone call experience?
+10. How might we find a way to improve relationship managers performance and knowledge about the holiday package?
+11. How might we ensure relationship managers profile is kept up to date? 
+12. How might we ensure relationship managers skills is kept up to date? 
+13. How might we ensure customer's satisfaction in purchasing the holiday package or phone call is achieved?
+14. How might we find a way that the system works efficiently?
+15. How might we find a way to make customer's wait time be enjoyable?
 
 Applying this design thinking to this project’s initial stages, allows us to better understand the scope of the project and our design objectives and our commitment to the needs and wants of our stakeholders. Phases 1 and 2 of design thinking provided us with a framework for the prototyping and modelling phase of our project. Knowing our priorities helped us to build up and manage our backlog that is dealt with GitHub issues.
-
-
 
 ## Our Proposed Solution
 
