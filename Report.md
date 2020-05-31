@@ -42,9 +42,10 @@
 <a name="Possible Effects of Project Failure"/>
 
 ## Executive Summary
+#### Purpose of the report 
+This report analyzes and evaluates the Call Management Center's program by creating a new improved information system. 
+This aims to translate raw data into usable information which will be used by Call Management Center to make decisions. 
 
-## Objective 
-The objective of this project is to deal with the current problems of the Call Management Center’s operations and propose an improved solution in the form of a new information system. The solution proposed will also allow the Call Management Center to handle the requests and calls from customers and relationship managers for sales of the holiday package. In addition, the new program would allow the travel company, due to improved analytical processes, to target potential customers or delay existing customers.
 
 ## Problem Definition
 Due to the high number of holiday packages and difficulty with effectively converting customers to purchase the current operational activities of the Call Management center. The problem includes:
@@ -52,6 +53,8 @@ Due to the high number of holiday packages and difficulty with effectively conve
 * Lack of customer information and inefficiency in redirecting customers to relationship managers who are capable of helping.
 This has led to slow call rates, waste of organizational resources and a negative customer relationship. Customer intentions cannot be fully understood by relationship managers, which means that customers can be redirected or simply hanging up several times.
 
+### Objectives 
+The objective of this project is to deal with the current problems of the Call Management Center’s operations and propose an improved solution in the form of a new information system. The solution proposed will also allow the Call Management Center to handle the requests and calls from customers and relationship managers for sales of the holiday package. In addition, the new program would allow the travel company, due to improved analytical processes, to target potential customers or delay existing customers.
 
 ### Empathy Maps
 #### Relationship Managers
@@ -102,13 +105,13 @@ This has led to slow call rates, waste of organizational resources and a negativ
    Insight: Current system ineffeciently assigns a customer to a relationship manager
 
 ### Reflection
-The project started with understanding the assigned case study and the first stage of design thinking (empathy). Based on the discussion topic, we identified the stakeholders with and involved in the implementation of a call routing system for the travel company.
+The project started with understanding the assignment case study and the first stage of design thinking (empathy). Based on the discussion topic, we identified the stakeholders with and involed in the implementation of a call routing system for the travel company. 
 
 For the key stakeholders who we felt will be most impacted and have the most insight on the changed processes, we have developed empathy maps. For customers, relationship managers and company owner, our empathy maps are created. We have provided corresponding POV (point of view) statements along with our empathy maps, which have identified the needs and perspectives of stakeholders with regard to the call system.
 
 We have been able to define the issue in step 2 of the Design Thinking process through the empathy maps and POV statements. We have found that it is crucial for customers to minimize the waiting time for calls and to be matched with a Relationship Manager that is suitable for their needs and queries. It is essential for relationship managers to be well suited for their customer requirements.
 
-### Assumption outside the project specification
+#### Assumption outside the project specification
 1. All insights made towards the existing (old) system are assumed based on the requests made in the discussion topic
 2. Assume that the initial 10 minute profile questionnaire for relationship managers is adequate enough for a strong base 
 3. The development of the software is outsource to external company
@@ -128,7 +131,7 @@ We have been able to define the issue in step 2 of the Design Thinking process t
 17. Project servers arrive configured as expected.
 18. The correct number of handheld devices arrives without delays at the target delivery date.
 
-### How Might We Statements
+#### How Might We Statements
 1. How might we ensure customers can engage with relationship managers that are knowledgeable for their desired package?  
 2. How might we ensure customers can engage with relationship managers to find the best deals from the holiday package?
 3. How might we find a way to connect with customers on a personal level to build a rapport?
@@ -136,6 +139,10 @@ We have been able to define the issue in step 2 of the Design Thinking process t
 5. How might we find a new way to make the system equal without serving customer based on scores?
 6. How might we ensure relationship managers avoid only focusing on improving their ranking?
 7. How might we improve the current system to assign customers with relationship managers efficiently?
+
+Applying this design thinking to this project’s initial stages, allows us to better understand the scope of the project and our design objectives and our commitment to the needs and wants of our stakeholders. Phases 1 and 2 of design thinking provided us with a framework for the prototyping and modelling phase of our project. Knowing our priorities helped us to build up and manage our backlog that is dealt with GitHub issues.
+
+
 
 ## Our Proposed Solution
 
