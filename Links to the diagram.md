@@ -8,4 +8,4 @@ https://drive.google.com/file/d/1u-zREhViCuP6iFjp0MvVdSRfnO7YHdfO/view?usp=shari
 https://drive.google.com/file/d/1DwRpeESfigMjzOA0-3VZSRzsAGGyBn2Q/view?usp=sharing
 
 #### Collaborative Diagram 
-https://drive.google.com/file/d/1DTq1zx1EP5SkgdllNU7-Uh2OXHmTae97/view?usp=sharing
+https://app.lucidchart.com/invitations/accept/bf40da35-58c1-4d6f-92ec-e5772be4dcfa
