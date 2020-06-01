@@ -48,7 +48,7 @@
 A major travel company performs sales of holiday packages. Currently they offer services through their in-house call management centre (CMC). With this, Relationship Managers from the company are able to provide information on particular travel packages as well as perform sales to their end-customers and potential customers.
 
 This report analyzes and evaluates the Call Management Center's program by creating a new improved information system for a major travel company. 
-This aims to translate raw data into usable information which will be used by Call Management Center to make decisions. 
+This aims to translate raw data into usable information which will be used by Call Management Center to make decisions. The report also displays how the implementation of the new information system will address the problems within the travel company through various UML diagram designs and solutions. At last the report indicates the main benefits of the proposed solution ,specifically better customer satisfaction as well as improved sales rates, on the other hand the possible effects of project failure are noted such as extra resource costs and missed opportunities if the project happens to fail.
 
 
 
