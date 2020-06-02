@@ -136,6 +136,10 @@ The objective of this project is to deal with the current problems of the Call M
 ### Methodologies 
 Agile scrum methodology was used to work on this information systems development project. It is a methodology that relies on incremental development. Usually each iteration consists of 2-4 week sprints where each sprints goal is to build the most important features of the system;  to come out with a potentially delieverable product. Additional features are able to be built in based on stakeholder and customer feeback in betweens sprints.
 
+Other project management methods emphasize on building an entire product in one iteration from start to finish, however agile scrum methodology focuses on using several iterations of a product that provide stakeholders with highest value in the least amount of time.
+
+Agile Scrum also has several benefits. It encourages products to be built faster as each set of  goals has to be completed within its sprint time frame. Additionally it helps the project team to focus on current sprint objectives and increases productivity.
+
 
 
 ### Reflection
