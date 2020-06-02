@@ -141,7 +141,7 @@ Other project management methods emphasize on building an entire product in one 
 
 Agile Scrum also has several benefits. It encourages products to be built faster as each set of  goals has to be completed within its sprint time frame. Additionally it helps the project team to focus on current sprint objectives and increases productivity.
 
-
+For this project we used one week sprints for each weekly task except for the modelling which took 2. We had a backlog, sprints and scrum meetings.
 
 ### Reflection
 The project started with understanding the assignment case study and the first stage of design thinking (empathy). Based on the discussion topic, we identified the stakeholders with and involed in the implementation of a call routing system for the travel company. 
