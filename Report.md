@@ -269,7 +269,7 @@ Backlogs are sorted by priority from highest to lowest.
 ## Solution Models
 
 ### Use Case Diagrams
-![Use Case Diagram](USE%20CASE%20DIAGRAM4-Page-2.png)
+![Use Case Diagram](USE%20CASE%20DIAGRAM%205.png)
 ### Activity Diagrams
 #### Customer
 ![Activity Diagram](https://github.com/13078326j/Tut12-Group2/blob/master/activity%20diagram%20iterative%204%20customer.png)
