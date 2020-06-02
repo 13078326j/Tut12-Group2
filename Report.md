@@ -33,7 +33,6 @@
 <a name="Point of View Statements"/>
 <a name="Design Thinking Principles Approach"/>
 <a name="Methodologies"/>
-
 <a name="Reflection"/>
 <a name="How Might We Statements"/>
 <a name="Our Proposed Solution"/>
@@ -52,9 +51,7 @@
 #### Purpose of the report 
 A major travel company performs sales of holiday packages. Currently they offer services through their in-house call management centre (CMC). With this, Relationship Managers from the company are able to provide information on particular travel packages as well as perform sales to their end-customers and potential customers.
 
-This report analyzes and evaluates the Call Management Center's program by creating a new improved information system for a major travel company. 
-This aims to translate raw data into usable information which will be used by Call Management Center to make decisions. The report also displays how the implementation of the new information system will address the problems within the travel company through various UML diagram designs and solutions. At last the report indicates the main benefits of the proposed solution ,specifically better customer satisfaction as well as improved sales rates, on the other hand the possible effects of project failure are noted such as extra resource costs and missed opportunities if the project happens to fail.
-
+This report analyzes and evaluates the Call Management Center's program by creating a new improved information system for the company.  The report also displays how the implementation of the new information system will address the problems within the travel company through various UML diagram designs and solutions. At last the report indicates the main benefits of the proposed solution ,specifically better customer satisfaction as well as improved sales rates, on the other hand the possible effects of project failure are noted such as extra resource costs and missed opportunities if the project happens to fail.
 
 
 ## Problem Definition
@@ -93,7 +90,7 @@ The objective of this project is to deal with the current problems of the Call M
 
 ### Point Of View Statements
 1. User: Customers enquiring about holiday packages   
-   Need: To engage with Relationship Managers that are knowledgeable in desired package  
+   Need: To engage with Relationship Managers that are knowledgeable in desired package and can identify with their needs  
    Insight: Current system doesn't target matching between customers and suitable Relationship Managers  
    
 2. User: End-Customers looking for best deal on a certain package  
@@ -108,7 +105,7 @@ The objective of this project is to deal with the current problems of the Call M
    Need: An Interactive Voice Response unit and Automatic Call Distributer to handle their request\
    Insight: Current system poorly handles caller overflow and many customers hang up
 
-5. User: Customer wants to get higher scores so that they are served first\
+5. User: Customer wants their company loyalty to be rewarded with high priority\
    Need: Getting a score from 1-10 based on the likelihood to purchase the product according to some pre-loaded criteria\
    Insight:Current system only serves customers with higher scores first and make the lower score customers wait.
    
@@ -117,16 +114,12 @@ The objective of this project is to deal with the current problems of the Call M
    Insight: Current system ineffeciently assigns a customer to a relationship manager.
    
 7. User: Relationship Managers who are having an outbound calling                  
-   Need: Customer details, guidelines and script to improve services to end-customer\                       
+   Need: To receive Customer details, guidelines and script to help improve services to end-customer\                       
    Insight: Current system lacks good quality services to end-customers.
 
 8. User: Travel company                    
    Need: An information system to improve Call Management Center operations                     
-   Insight: Current system does not provide adequate amount of assitance to relationship managers in serving their end-customer.
-   
-9. User: Relationship Managers want to help as many customers as possible                   
-   Need: To be assigned customers as efficiently as possible                           
-   Insight: Current system ineffeciently assigns a customer to a relationship manager   
+   Insight: Current system does not provide adequate amount of assitance to relationship managers in serving their end-customer.   
    
 ### Design Thinking Principles Approach
 1. Empathise: We must put ourselves in the minds of relevant stakeholders to identify their issues and thoughts. Utilise empathy maps to achieve this.
@@ -135,13 +128,13 @@ The objective of this project is to deal with the current problems of the Call M
 4. Prototype: Various models will be made to visualise the proposed system solution for the travel company. These include the use case, activity, class and collaborative diagrams.  
 5. Test: Proposed logical solutions for the information system will be made sure that they satisfy the requirements and constant update iterations will also be made to continue agile development.
 ### Methodologies 
-Agile scrum methodology was used to work on this information systems development project. It is a methodology that relies on incremental development. Usually each iteration consists of 2-4 week sprints where each sprints goal is to build the most important features of the system;  to come out with a potentially delieverable product. Additional features are able to be built in based on stakeholder and customer feeback in betweens sprints.
+Agile scrum methodology was used to work on this information systems development project. It is a methodology that relies on incremental development. Usually each iteration consists of 2-4 week sprints where each sprints goal is to build the most important features of the system; to come out with a potentially delieverable product. Additional features are able to be built in based on stakeholder and customer feeback in betweens sprints.
 
 Other project management methods emphasize on building an entire product in one iteration from start to finish, however agile scrum methodology focuses on using several iterations of a product that provide stakeholders with highest value in the least amount of time.
 
 Agile Scrum also has several benefits. It encourages products to be built faster as each set of  goals has to be completed within its sprint time frame. Additionally it helps the project team to focus on current sprint objectives and increases productivity.
 
-For this project we used one week sprints for each weekly task except for the modelling which took 2. We had a backlog, sprints and scrum meetings.
+For this project we used one week sprints except sprint three which had two weeks as it was the largest section. The first sprint involved creating the empathy maps and establishing a foundation of future sprints. The second sprint involved writing POV and HMV statements, creating the product backlog, and beginning iterations of the report. The third sprint involved creating all the models required for the system, and also describing the solution benefits and failure consequences. The product backlog created also assisted in iterative design as well as the scrum meetings.
 
 ### Reflection
 The project started with understanding the assignment case study and the first stage of design thinking (empathy). Based on the discussion topic, we identified the stakeholders with and involed in the implementation of a call routing system for the travel company. 
