@@ -11,8 +11,9 @@
     3. [Assumptions](#assumptions)
     4. [Point of View Statements](#point-of-view-statements)
     5. [Design Thinking Principles Approach](#design-thinking-principles-approach)
-    6. [Reflection](#reflection)
-    7. [How Might We Statements](#how-might-we-statements)
+    6. [Methodologies](#methodologies)
+    7. [Reflection](#reflection)
+    8. [How Might We Statements](#how-might-we-statements)
 3. [Our Propososed Solution](#our-proposed-solution)
     1. [Solution Backlog](#solution-backlog)
     2. [Project Tasks](#project-tasks)
@@ -31,6 +32,8 @@
 <a name="Assumptions"/>
 <a name="Point of View Statements"/>
 <a name="Design Thinking Principles Approach"/>
+<a name="Methodologies"/>
+
 <a name="Reflection"/>
 <a name="How Might We Statements"/>
 <a name="Our Proposed Solution"/>
@@ -130,6 +133,7 @@ The objective of this project is to deal with the current problems of the Call M
 3. Ideate: In this stage we will brainstorm to create ideas through the use of H.M.W statements branching from the P.O.V statements.   Assumptions will also be decribed using team reflections.  
 4. Prototype: Various models will be made to visualise the proposed system solution for the travel company. These include the use case, activity, class and collaborative diagrams.  
 5. Test: Proposed logical solutions for the information system will be made sure that they satisfy the requirements and constant update iterations will also be made to continue agile development.
+### Methodologies 
 ### Reflection
 The project started with understanding the assignment case study and the first stage of design thinking (empathy). Based on the discussion topic, we identified the stakeholders with and involed in the implementation of a call routing system for the travel company. 
 
