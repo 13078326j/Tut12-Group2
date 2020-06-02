@@ -274,7 +274,7 @@ Backlogs are sorted by priority from highest to lowest.
 ![Class Diagram](https://github.com/13078326j/Tut12-Group2/blob/master/Class%20Diagram%20Iterative%204.png)
 ### Collaborative Diagrams
 #### Customer
-![](https://github.com/13078326j/Tut12-Group2/blob/master/CollabDiagram%20v1.png)
+![](https://github.com/13078326j/Tut12-Group2/blob/master/CollabDiagram%20v3.png)
 #### Relationship Manager
 ![](https://github.com/13078326j/Tut12-Group2/blob/master/CollabDiagram%20v3-1.png)
 
