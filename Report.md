@@ -295,3 +295,5 @@ If the project to improve the call management centre were to fail, the travel co
 Another possible effect of project failure includes the loss of future success as innovation and technological systems advancements would significantly reduce. As teams realise their project has failed, extra resources and focus will be unfortunately applied to improve the project, contributing to draining of these assets from important areas.
 #### Employee Erosion
 The organisation itself and its members may also suffer dramatically if the call management centre project were to fail regarding employee confidence, motivation, team relations, and acceptance to required change. Employees may second-guess every decision, constantly reminded of failure, blaming and bickering over responsibility for the failure, and hesitation due to increased fear of the unknown.
+### Presentation
+https://youtu.be/zfQDq16XI7w
