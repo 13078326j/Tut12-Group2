@@ -66,6 +66,7 @@ This has led to slow call rates, waste of organizational resources and a negativ
 ### Objectives 
 The objective of this project is to deal with the current problems of the Call Management Center’s operations and propose an improved solution in the form of a new information system. The solution proposed will also allow the Call Management Center to handle the requests and calls from customers and relationship managers for sales of the holiday package. In addition, the new program would allow the travel company, due to improved analytical processes, to target potential customers or delay existing customers.
 
+
 ### Empathy Maps
 #### Relationship Managers
 ![rms](https://github.com/13078326j/jesslyn-/blob/master/Empathy%20Map%20Relationship%20Managers.png "Relationship Managers")
