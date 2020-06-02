@@ -134,6 +134,8 @@ The objective of this project is to deal with the current problems of the Call M
 4. Prototype: Various models will be made to visualise the proposed system solution for the travel company. These include the use case, activity, class and collaborative diagrams.  
 5. Test: Proposed logical solutions for the information system will be made sure that they satisfy the requirements and constant update iterations will also be made to continue agile development.
 ### Methodologies 
+Agile scrum methodoly is the methodology used f project managemet
+
 ### Reflection
 The project started with understanding the assignment case study and the first stage of design thinking (empathy). Based on the discussion topic, we identified the stakeholders with and involed in the implementation of a call routing system for the travel company. 
 
@@ -262,8 +264,9 @@ Backlogs are sorted by priority from highest to lowest.
 ### Use Case Diagrams
 ![Use Case Diagram](USE%20CASE%20DIAGRAM4-Page-2.png)
 ### Activity Diagrams
+#### Customer
 ![Activity Diagram](https://github.com/13078326j/Tut12-Group2/blob/master/activity%20diagram%20iterative%204%20customer.png)
-
+#### Relationship Manager
 ![Activity Diagram](https://github.com/13078326j/Tut12-Group2/blob/master/activity%20diagram%20iterative%205%20rm.png)
 ### Class Diagram
 ![Class Diagram](https://github.com/13078326j/Tut12-Group2/blob/master/Class%20Diagram%20Iterative%204.png)
