@@ -14,7 +14,7 @@
     6. [Methodologies](#methodologies)
     7. [Reflection](#reflection)
     8. [How Might We Statements](#how-might-we-statements)
-3. [Our Propososed Solution](#our-proposed-solution)
+3. [Our Proposed Solution](#our-proposed-solution)
     1. [Solution Backlog](#solution-backlog)
     2. [Project Tasks](#project-tasks)
 4. [Solution Models](#solution-models)
