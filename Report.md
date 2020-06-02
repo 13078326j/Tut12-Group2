@@ -134,7 +134,9 @@ The objective of this project is to deal with the current problems of the Call M
 4. Prototype: Various models will be made to visualise the proposed system solution for the travel company. These include the use case, activity, class and collaborative diagrams.  
 5. Test: Proposed logical solutions for the information system will be made sure that they satisfy the requirements and constant update iterations will also be made to continue agile development.
 ### Methodologies 
-Agile scrum methodoly is the methodology used f project managemet
+Agile scrum methodology was used to work on this information systems development project. It is a methodology that relies on incremental development. Usually each iteration consists of 2-4 week sprints where each sprints goal is to build the most important features of the system;  to come out with a potentially delieverable product. Additional features are able to be built in based on stakeholder and customer feeback in betweens sprints.
+
+
 
 ### Reflection
 The project started with understanding the assignment case study and the first stage of design thinking (empathy). Based on the discussion topic, we identified the stakeholders with and involed in the implementation of a call routing system for the travel company. 
